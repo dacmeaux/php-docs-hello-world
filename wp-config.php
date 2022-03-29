@@ -18,8 +18,6 @@
  * @package WordPress
  */
 
- echo 'HOST: '. $_SERVER['HTTP_HOST'];
-
 // ** Database settings - You can get this info from your web host ** //
 
 if( preg_match('/azurewebsites.net$/', $_SERVER['SERVER_NAME']) ) {
