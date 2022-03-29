@@ -18,7 +18,7 @@
  * @package WordPress
  */
 
- echo $_SERVER['SERVER_NAME'];
+ echo 'HOST: '. $_SERVER['HTTP_HOST'];
 
 // ** Database settings - You can get this info from your web host ** //
 
