@@ -29,7 +29,7 @@ define( 'DB_USER', 'wordpressuser' );
 define( 'DB_PASSWORD', '^9MRJnBq*Okr' );
 
 /** Database hostname */
-define( 'DB_HOST', 'dcomeauxMySqlServer' );
+define( 'DB_HOST', 'dcomeauxmysqlserver.mysql.database.azure.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
