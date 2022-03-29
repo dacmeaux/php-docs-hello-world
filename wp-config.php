@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wordpress' );
 
 /** Database username */
-define( 'DB_USER', 'wordpressuser' );
+define( 'DB_USER', 'dcomeaux' );
 
 /** Database password */
-define( 'DB_PASSWORD', '^9MRJnBq*Okr' );
+define( 'DB_PASSWORD', 'pathfind@36' );
 
 /** Database hostname */
 define( 'DB_HOST', 'dcomeauxmysqlserver.mysql.database.azure.com' );
