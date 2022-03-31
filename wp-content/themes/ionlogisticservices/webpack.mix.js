@@ -37,7 +37,7 @@ mix
 .minify([
     `${CSSDIR}/app.css`,
     `${JSDIR}/app.js`,
-    `${JSDIR}/vendor.js`
+    // `${JSDIR}/vendor.js`
 ])
 .copy('src/images/*', `${IMGDIR}`)
 .copy('src/fonts/*', `${FONTDIR}`)
