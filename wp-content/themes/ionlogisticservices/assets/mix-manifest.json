@@ -1,9 +1,9 @@
 {
-    "/js/app.js": "/js/app.js?id=549d6a419478225d4688e6584bdcf069",
-    "/css/blocks/latest-comments.css": "/css/blocks/latest-comments.css?id=f3dbc4bd3e60fa1d7ed86831ce22909e",
-    "/css/app.css": "/css/app.css?id=4cfc4ddfb6196b75f9d4988c6f68ec4c",
-    "/css/app.min.css": "/css/app.min.css?id=4cfc4ddfb6196b75f9d4988c6f68ec4c",
-    "/js/app.min.js": "/js/app.min.js?id=549d6a419478225d4688e6584bdcf069",
+    "/js/app.js": "/js/app.js?id=a615d8169fa60688afd880f418e91388",
+    "/css/blocks/latest-comments.css": "/css/blocks/latest-comments.css?id=e211ba9926da580c7083774780df932f",
+    "/css/app.css": "/css/app.css?id=571e0e6539fc3244a7707aa84e357880",
+    "/css/app.min.css": "/css/app.min.css?id=571e0e6539fc3244a7707aa84e357880",
+    "/js/app.min.js": "/js/app.min.js?id=a615d8169fa60688afd880f418e91388",
     "/js/vendor.min.js": "/js/vendor.min.js?id=33705b7c4b774bce44f1ec57f01a3511",
     "/images/bird-on-black.jpg": "/images/bird-on-black.jpg?id=92285686418fdf1b712ddf8baf96d08e",
     "/images/bird-on-gray.jpg": "/images/bird-on-gray.jpg?id=42186e0bf0e16a4ce37d3967ed2b54d8",
@@ -29,5 +29,5 @@
     "/fonts/SourceSerif4Variable-Roman.ttf.woff2": "/fonts/SourceSerif4Variable-Roman.ttf.woff2?id=3adc1428d0826b36efcb0cfe0253f834",
     "/videos/birds.mp4": "/videos/birds.mp4?id=2ea6a8d75015bd25d51ddf426417df30",
     "/css/style.css": "/css/style.css?id=cf7bed65d477d8edba10e1bc694f1bbe",
-    "/css/blocks/latest-comments.min.css": "/css/blocks/latest-comments.min.css?id=f3dbc4bd3e60fa1d7ed86831ce22909e"
+    "/css/blocks/latest-comments.min.css": "/css/blocks/latest-comments.min.css?id=e211ba9926da580c7083774780df932f"
 }
