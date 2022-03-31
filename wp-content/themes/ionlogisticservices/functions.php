@@ -39,6 +39,7 @@ function ionlogistcservices_enqueue_scripts() {
     $app_style_v = get_version('/assets/css/app.css');
 
     // wp_enqueue_script('ionlogistcservices-vendor-script', get_theme_file_uri('/assets/js/vendor.min.js'), [], $vendor_v, true);
+	
     wp_enqueue_script('ionlogistcservices-script', get_theme_file_uri('/assets/js/app.min.js'), [], $app_v, true);
 
     // Register theme stylesheet.
