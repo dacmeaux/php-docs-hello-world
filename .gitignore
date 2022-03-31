@@ -3,3 +3,4 @@ wp-content/plugins/*
 wp-content/cache/*
 wp-content/advanced-cache.php
 wp-content/w3tc-config/*
+wp-content/themes/ionlogisticservices/node_modules/*

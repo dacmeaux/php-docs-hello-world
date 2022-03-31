@@ -1,0 +1,30 @@
+{
+  "name": "ionlogisticservices",
+  "version": "1.0.0",
+  "description": "Training WordPress Fullsite Editor Theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://cmeaux@dcomeauxwordpress.scm.azurewebsites.net/dcomeauxWordPress.git"
+  },
+  "author": "Duane Comeaux",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "laravel-mix": "^6.0.43",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "fs": "^0.0.1-security",
+    "postcss-custom-properties": "^12.1.5",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.49.10",
+    "sass-loader": "^12.1.0"
+  }
+}

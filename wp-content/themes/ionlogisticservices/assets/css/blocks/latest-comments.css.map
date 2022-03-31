@@ -1,0 +1,1 @@
+{"version":3,"file":"css/blocks/latest-comments.css","mappings":"AAAA;EACI;AACJ,C","sources":["webpack://ionlogisticservices/./src/scss/blocks/latest-comments.scss"],"sourcesContent":[".wp-block-latest-comments__comment-date {\r\n    color: red;\r\n}"],"names":[],"sourceRoot":""}
